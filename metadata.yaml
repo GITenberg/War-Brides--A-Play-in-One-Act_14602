@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5588'
     url: http://www.gutenberg.org/2009/agents/5588
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14602#War-Brides--A-Play-in-One-Act
 gutenberg_bookshelf:
 - World War I
 - One Act Plays
