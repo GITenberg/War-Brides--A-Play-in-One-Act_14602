@@ -1,0 +1,29 @@
+_repo: War-Brides--A-Play-in-One-Act_14602
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wentworth, Marion Craig
+    birthdate: 1872
+    gutenberg_agent_id: '5588'
+    url: http://www.gutenberg.org/2009/agents/5588
+description: ''
+gutenberg_bookshelf:
+- World War I
+- One Act Plays
+gutenberg_issued: '2005-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14602'
+  lccn: '15005809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Drama'
+- !lcc 'PS'
+title: 'War Brides: A Play in One Act'
+url: http://www.gutenberg.org/ebooks/14602
